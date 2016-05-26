@@ -1,2 +1,2 @@
 # flattybird
-game built using HTML, CSS  &amp; jQuery
+A web-game built using HTML, CSS  &amp; jQuery.
