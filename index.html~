@@ -8,7 +8,7 @@
 </head>
 
 <body>
-<!--	 Testing the git command line tool-->
+
     <div id="container">
 
         <div id="bird"></div>
